@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139087461389",
+    "project_id": "signin-cad9e",
+    "storage_bucket": "signin-cad9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139087461389:android:fbe8163ca357c80d782944",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139087461389-rsuomq0gco3m1vh5n6v4n4fll01n4qc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_demo",
+            "certificate_hash": "0a1b7ebc46a9cc08c7d371df7ebc14cbbd4f4d47"
+          }
+        },
+        {
+          "client_id": "139087461389-h35dl358kk1a63b42aneijb7jnt7op8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCjuTsdzLnQXTy8TtYewnWtXJEij7dFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139087461389-h35dl358kk1a63b42aneijb7jnt7op8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
